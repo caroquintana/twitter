@@ -46,6 +46,7 @@ function agregar(){
 		alert("Error, debe ingresar una tarea");
 		return false;
 	}
+	
 };
 
 
